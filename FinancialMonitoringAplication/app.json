@@ -1,0 +1,7 @@
+{
+  "name": "FinancialMonitoringAplication",
+  "displayName": "FinancialMonitoringAplication",
+  "plugins": [
+    "@notifee/react-native"
+  ]
+}

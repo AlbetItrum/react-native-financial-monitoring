@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "781707529139",
+    "project_id": "financialmonitoringaplication",
+    "storage_bucket": "financialmonitoringaplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781707529139:android:00aed929f634edc72319c6",
+        "android_client_info": {
+          "package_name": "com.financialmonitoringaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781707529139-gf3n3nvqeneblj60f40962aphs5sicjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.financialmonitoringaplication",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "781707529139-5oqkqfpaucb11jhitbjdgdsiirj0rodn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFQcVcrW2UVPjK98K3pYSomC7qP0q0-yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781707529139-5oqkqfpaucb11jhitbjdgdsiirj0rodn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
